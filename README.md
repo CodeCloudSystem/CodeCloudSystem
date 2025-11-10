@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Code Cloud Systems</h1>
+<h1 align="center">Code Cloud Systems</h1>
 <h3 align="center">Desenvolvimento de soluções digitais, automação e inovação tecnológica 💻☁️</h3>
 
 </br>
