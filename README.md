@@ -95,7 +95,7 @@
 </div>
 
 <h3 align="center">
-💬 “Criando o futuro digital, um código por vez — alimentado por café, adoçante de energético e pura teimosia criativa.”  
+  “Criando o futuro digital, um código por vez — alimentado por café, adoçante de energético e pura teimosia criativa.”  
 <br/>
 ☁️ Code Cloud Systems ☁️
 </h3>
